@@ -23,7 +23,8 @@ sampleSubmission.CSV: id, units</li>
 <li>	Root mean squared log error (RMSLE):  0.5155852875749393 </li>
 
 #### Best Model: LSTM
-train loss: 0.0056 - val_loss: 0.0170
+<li>Train loss: 0.0056</li> 
+<li>val_loss: 0.0170</li>
 
 #### Project files:
 <li>requirements.txt - Hold information of all required libaries to execute the app</li>
