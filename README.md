@@ -14,4 +14,5 @@ The data description of all the attributes in our dataset is described as follow
 <li>Test.CSV: date, station_nbr, item_nbr, units</li>
 sampleSubmission.CSV: id, units</li>
 
+![image](https://user-images.githubusercontent.com/55212528/156655401-2cd17e21-ff50-47d5-8bb4-16b997f8ad6a.png)
 
