@@ -18,9 +18,9 @@ sampleSubmission.CSV: id, units</li>
 ![image](https://user-images.githubusercontent.com/55212528/156655401-2cd17e21-ff50-47d5-8bb4-16b997f8ad6a.png)
 
 #### Base Model : Random Forest 
-•	R^2 error:  0.6723484182079371
-•	Root mean squared error (RMSE):  6.672133771918248
-•	Root mean squared log error (RMSLE):  0.5155852875749393
+<li>	R^2 error:  0.6723484182079371 </li>
+<li>	Root mean squared error (RMSE):  6.672133771918248 </li>
+<li>	Root mean squared log error (RMSLE):  0.5155852875749393 </li>
 
 #### Best Model: LSTM
 train loss: 0.0056 - val_loss: 0.0170
