@@ -28,12 +28,17 @@ train loss: 0.0056 - val_loss: 0.0170
 #### Project files:
 <li>requirements.txt - Hold information of all required libaries to execute the app</li>
 <li>runtime.txt - Pyhton version for Buildpack platform detetion</li>
-<li>Procfile - Gunicorn for Python HTTP server for WSGI Applications<li>
-<li>Procfile - Gunicorn for Python HTTP server for WSGI Applications<li>
+<li>Procfile - Gunicorn for Python HTTP server for WSGI Applications</li>
+<li>Procfile - Gunicorn for Python HTTP server for WSGI Applications</li>
 <li>Phase_3_Project_No_52_Abhiraj.ipynb- EDA +  Base Models (RF)</li>
 <li>Phase_5_Project_No_52_Abhiraj.ipynb- LSTM Model</li>
+<li>model_rfr.pkl- Serialize Pyhton object which hold the model</li>
+<li>model_rfr.pkl- Serialize Pyhton object which hold the model</li>
+<li>app.py- API to predict the sales units</li>
+<li>template-index.html- Interface for user input</li>
 
-
+#### Deployed App link:
+https://project52v1.herokuapp.com/
 
 
 
